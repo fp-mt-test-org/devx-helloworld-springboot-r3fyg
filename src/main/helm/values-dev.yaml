@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-r3fyg
+  namespace: devx-helloworld-springboot-r3fyg-service-dev
+  image:
+    name: vad1mo/hello-world-rest
+    tag: v0.0.1
